@@ -134,6 +134,7 @@
 - [humanizer-ru](https://github.com/Vladimir-Human/humanizer-ru) - Audit and rewrite Russian text using style patterns and deterministic markers.
 - [bullshit-detector](https://github.com/SerhiiKorniienko/bullshit-detector) - Extract claims from media or PDFs, verify them against independent sources, and score BS risk.
 
+- [SPECTER](https://github.com/YannisKiefer/harvey-specter) - Prepares negotiation replies and difficult conversations with evidence checks, clear boundaries, and relationship-aware tone.
 
 ## 📘 Learning & Knowledge  
 - [karpathy-llm-wiki](https://github.com/Astro-Han/karpathy-llm-wiki) - Markdown-first skill for building and maintaining a personal LLM wiki from raw sources, compiled knowledge pages, query workflows, and linting.
